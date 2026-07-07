@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/block",
+  "textures": {
+    "particle": "gianttransparentblock:block/basic_drill"
+  }
+}
