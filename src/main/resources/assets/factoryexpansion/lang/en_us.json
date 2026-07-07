@@ -1,0 +1,13 @@
+{
+  "itemGroup.factoryexpansion": "Example Mod Tab",
+  "block.factoryexpansion.example_block": "Example Block",
+  "item.factoryexpansion.example_item": "Example Item",
+
+  "factoryexpansion.configuration.title": "Factory Expansion Configs",
+  "factoryexpansion.configuration.section.factoryexpansion.common.toml": "Factory Expansion Configs",
+  "factoryexpansion.configuration.section.factoryexpansion.common.toml.title": "Factory Expansion Configs",
+  "factoryexpansion.configuration.items": "Item List",
+  "factoryexpansion.configuration.logDirtBlock": "Log Dirt Block",
+  "factoryexpansion.configuration.magicNumberIntroduction": "Magic Number Text",
+  "factoryexpansion.configuration.magicNumber": "Magic Number"
+}
